@@ -6,3 +6,25 @@
 .pokemon img {
     display: block;
 }
+
+.below
+{
+    display:flex;
+
+}
+.footer
+{
+    margin:0 auto;
+    margin-top:15px;
+    button
+    {
+       
+        color:white;
+        background-color:lightgreen;
+        border-radius:0 solid grey;
+        font-size:10px;
+        width:50px;
+        height:30px;
+
+    }
+}

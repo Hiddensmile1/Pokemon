@@ -6,3 +6,22 @@
 .pokemon img {
     display: block;
 }
+.down
+{
+    display:flex;
+    justify-content:center;
+}
+.footer
+{
+    padding-top:20px;
+    button
+    {
+        color:beige;
+        background-color:purple;
+        font-size:15px;
+        width:27%;
+        height:27%
+        border:none;
+        margin-right:10px;
+    }
+}

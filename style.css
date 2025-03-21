@@ -6,25 +6,23 @@
 .pokemon img {
     display: block;
 }
-
-.below
+.down
 {
     display:flex;
-
+    justify-content:center;
 }
 .footer
 {
-    margin:0 auto;
-    margin-top:15px;
+    padding-top:20px;
     button
     {
-       
-        color:white;
-        background-color:lightgreen;
-        border-radius:0 solid grey;
-        font-size:10px;
-        width:50px;
-        height:30px;
+        color:beige;
+        background-color:purple;
+        font-size:15px;
+        width:27%;
+        height:27%
+        border:none;
+        margin-right:10px;
 
     }
 }
